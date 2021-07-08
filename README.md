@@ -31,3 +31,6 @@ Welcome to SatTV
 7. View current subscription details 
 8. Update email and phone number for notifications 
 9. Exit 
+
+
+The way to run this code is : go run *.go
